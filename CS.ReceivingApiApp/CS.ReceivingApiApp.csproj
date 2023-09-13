@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Codify Simply\Projects\2023\ServiceBusQueue\CS.Services.Mail\CS.Services.Mail.csproj" />
+    <ProjectReference Include="..\..\ServiceBusQueue\CS.Services.Mail\CS.Services.Mail.csproj" />
     <ProjectReference Include="..\CS.Services.ServiceBusProcessor\CS.Services.ServiceBusProcessor.csproj" />
   </ItemGroup>
 
