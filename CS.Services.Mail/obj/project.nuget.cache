@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y185fzOGdBBc6nWEqgerV2ibeEh/AE5Gzp/m9lFlOGNs05D95D/w2IE30FvE0Pz89FQ49Jp0LvrRTblTM7JJIw==",
+  "success": true,
+  "projectFilePath": "D:\\Codify Simply\\ServiceBusProcessing\\CS.Services.Mail\\CS.Services.Mail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alaai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Alaai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

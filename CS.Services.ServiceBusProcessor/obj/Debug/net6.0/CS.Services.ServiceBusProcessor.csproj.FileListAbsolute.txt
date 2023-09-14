@@ -1,0 +1,30 @@
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.deps.json
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.dll
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.pdb
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.Mail.dll
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.Mail.pdb
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.csproj.AssemblyReference.cache
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.AssemblyInfoInputs.cache
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.AssemblyInfo.cs
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.csproj.CoreCompileInputs.cache
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.csproj.CopyComplete
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.dll
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\refint\CS.Services.ServiceBusProcessor.dll
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.pdb
+D:\Training\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\ref\CS.Services.ServiceBusProcessor.dll
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.deps.json
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.dll
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.Mail.dll
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\bin\Debug\net6.0\CS.Services.Mail.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.csproj.AssemblyReference.cache
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.AssemblyInfoInputs.cache
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.AssemblyInfo.cs
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.csproj.CoreCompileInputs.cache
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.csproj.CopyComplete
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.dll
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\refint\CS.Services.ServiceBusProcessor.dll
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\CS.Services.ServiceBusProcessor.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.Services.ServiceBusProcessor\obj\Debug\net6.0\ref\CS.Services.ServiceBusProcessor.dll

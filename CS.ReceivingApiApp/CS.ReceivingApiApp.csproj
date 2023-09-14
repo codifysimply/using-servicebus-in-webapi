@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Codify Simply\Projects\2023\ServiceBusQueue\CS.Services.Mail\CS.Services.Mail.csproj" />
-    <ProjectReference Include="..\..\ServiceBusQueue\CS.Services.Mail\CS.Services.Mail.csproj" />
     <ProjectReference Include="..\CS.Services.ServiceBusProcessor\CS.Services.ServiceBusProcessor.csproj" />
   </ItemGroup>
 

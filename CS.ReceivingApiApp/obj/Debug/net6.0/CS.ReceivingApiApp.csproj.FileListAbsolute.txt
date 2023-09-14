@@ -1,0 +1,98 @@
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\appsettings.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.exe
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.deps.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.runtimeconfig.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.pdb
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Azure.Core.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Azure.Core.Amqp.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.Mail.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.Mail.pdb
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.pdb
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.csproj.AssemblyReference.cache
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.AssemblyInfoInputs.cache
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.AssemblyInfo.cs
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.csproj.CoreCompileInputs.cache
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.CS.ReceivingApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CS.ReceivingApiApp.props
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CS.ReceivingApiApp.props
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CS.ReceivingApiApp.props
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\scopedcss\bundle\CS.ReceivingApiApp.styles.css
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.csproj.CopyComplete
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\refint\CS.ReceivingApiApp.dll
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.pdb
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.genruntimeconfig.cache
+D:\Training\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\ref\CS.ReceivingApiApp.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\appsettings.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.exe
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.deps.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.runtimeconfig.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.ReceivingApiApp.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Azure.Core.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Azure.Core.Amqp.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.Mail.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.ServiceBusProcessor.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\bin\Debug\net6.0\CS.Services.Mail.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.csproj.AssemblyReference.cache
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.AssemblyInfoInputs.cache
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.AssemblyInfo.cs
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.csproj.CoreCompileInputs.cache
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.CS.ReceivingApiApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CS.ReceivingApiApp.props
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CS.ReceivingApiApp.props
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CS.ReceivingApiApp.props
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\scopedcss\bundle\CS.ReceivingApiApp.styles.css
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.csproj.CopyComplete
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\refint\CS.ReceivingApiApp.dll
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.pdb
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\CS.ReceivingApiApp.genruntimeconfig.cache
+D:\Codify Simply\ServiceBusProcessing\CS.ReceivingApiApp\obj\Debug\net6.0\ref\CS.ReceivingApiApp.dll

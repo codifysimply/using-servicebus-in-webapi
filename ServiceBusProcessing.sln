@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS.Services.ServiceBusProce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS.ReceivingApiApp", "CS.ReceivingApiApp\CS.ReceivingApiApp.csproj", "{6264C592-5F7B-466D-BA8B-FBD7BA270904}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS.Services.Mail", "..\ServiceBusQueue\CS.Services.Mail\CS.Services.Mail.csproj", "{83BACE8A-76BF-4395-9953-ACE631F698D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS.Services.Mail", "CS.Services.Mail\CS.Services.Mail.csproj", "{981D9A2C-6572-4ECF-A8A3-943FD94E4261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{6264C592-5F7B-466D-BA8B-FBD7BA270904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6264C592-5F7B-466D-BA8B-FBD7BA270904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6264C592-5F7B-466D-BA8B-FBD7BA270904}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83BACE8A-76BF-4395-9953-ACE631F698D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83BACE8A-76BF-4395-9953-ACE631F698D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83BACE8A-76BF-4395-9953-ACE631F698D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83BACE8A-76BF-4395-9953-ACE631F698D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981D9A2C-6572-4ECF-A8A3-943FD94E4261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981D9A2C-6572-4ECF-A8A3-943FD94E4261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981D9A2C-6572-4ECF-A8A3-943FD94E4261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981D9A2C-6572-4ECF-A8A3-943FD94E4261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pwRhD3ajEasz4auFqXpIruNwvX3ZnTGa9DE/bHg53H8=",
+  "Source": "CS.ReceivingApiApp",
+  "BasePath": "_content/CS.ReceivingApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
